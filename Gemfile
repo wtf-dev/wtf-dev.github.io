@@ -3,6 +3,7 @@
 source 'http://rubygems.org'
 
 group :jekyll_plugins do
+  gem 'github-pages', '>=104'
   gem 'bourbon'
   gem 'kramdown'
   gem 'rouge'
